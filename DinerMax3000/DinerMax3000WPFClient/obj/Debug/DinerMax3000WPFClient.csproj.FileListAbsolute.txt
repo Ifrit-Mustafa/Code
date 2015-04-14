@@ -1,0 +1,17 @@
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000WPFClient.exe.config
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000WPFClient.exe
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000WPFClient.pdb
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000BusinessLayer.dll
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\bin\Debug\DinerMax3000BusinessLayer.pdb
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.csprojResolveAssemblyReference.cache
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\MainWindow.baml
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\MainWindow.g.cs
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\App.g.cs
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient_MarkupCompile.cache
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.g.resources
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000.WPFClient.Properties.Resources.resources
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.csproj.GenerateResource.Cache
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.exe
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient.pdb
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000WPFClient\obj\Debug\DinerMax3000WPFClient_MarkupCompile.lref

@@ -1,0 +1,8 @@
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.exe.config
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.exe
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.pdb
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.exe
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.pdb
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.csprojResolveAssemblyReference.cache
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000BusinessLayer.dll
+D:\Users\lscoa_000\Documents\GitHub\Code\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000BusinessLayer.pdb

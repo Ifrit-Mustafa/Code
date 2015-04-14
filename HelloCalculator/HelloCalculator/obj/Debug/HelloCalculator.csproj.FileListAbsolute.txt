@@ -1,0 +1,6 @@
+D:\Users\lscoa_000\Documents\GitHub\Code\HelloCalculator\HelloCalculator\bin\Debug\HelloCalculator.exe.config
+D:\Users\lscoa_000\Documents\GitHub\Code\HelloCalculator\HelloCalculator\bin\Debug\HelloCalculator.exe
+D:\Users\lscoa_000\Documents\GitHub\Code\HelloCalculator\HelloCalculator\bin\Debug\HelloCalculator.pdb
+D:\Users\lscoa_000\Documents\GitHub\Code\HelloCalculator\HelloCalculator\obj\Debug\HelloCalculator.csprojResolveAssemblyReference.cache
+D:\Users\lscoa_000\Documents\GitHub\Code\HelloCalculator\HelloCalculator\obj\Debug\HelloCalculator.exe
+D:\Users\lscoa_000\Documents\GitHub\Code\HelloCalculator\HelloCalculator\obj\Debug\HelloCalculator.pdb
